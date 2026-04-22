@@ -2,5 +2,8 @@ __pycache__/
 *.pyc
 *.pyo
 tasks.db
+notes.db
 .env
 .DS_Store
+.git
+EOF
